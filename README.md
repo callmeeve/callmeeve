@@ -4,6 +4,10 @@
 
 Hello! I'm Widi Diky Kurniawan, a versatile developer with a keen focus on building seamless, user-friendly experiences. My journey in tech has led me to specialize in **Flutter** for crafting beautiful, high-performance mobile apps, and **Frontend Development** for creating engaging, responsive web interfaces.
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeeve&layout=compact)
+
 
 **🔧 Skills & Expertise:**
 - **Flutter:** Building cross-platform mobile apps with Dart and Flutter, from UI/UX design to complex state management.
