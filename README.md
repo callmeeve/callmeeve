@@ -1,12 +1,12 @@
 ### 🌟 Flutter & Frontend Developer | Tech Enthusiast 🌟
 
-🚀 **Passionate Flutter Developer** | 💻 **Frontend Wizard** | 🌐 **Tech Enthusiast**
-
-Hello! I'm Widi Diky Kurniawan, a versatile developer with a keen focus on building seamless, user-friendly experiences. My journey in tech has led me to specialize in **Flutter** for crafting beautiful, high-performance mobile apps, and **Frontend Development** for creating engaging, responsive web interfaces.
-
+## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=callmeeve&show_icons=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeeve&layout=compact" alt="Top Languages" width="48%" />
 
+🚀 **Passionate Flutter Developer** | 💻 **Frontend Wizard** | 🌐 **Tech Enthusiast**
+
+Hello! I'm Widi Diky Kurniawan, a versatile developer with a keen focus on building seamless, user-friendly experiences. My journey in tech has led me to specialize in **Flutter** for crafting beautiful, high-performance mobile apps, and **Frontend Development** for creating engaging, responsive web interfaces.
 
 **🔧 Skills & Expertise:**
 - **Flutter:** Building cross-platform mobile apps with Dart and Flutter, from UI/UX design to complex state management.
