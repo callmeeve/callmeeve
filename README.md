@@ -1,7 +1,5 @@
 ### 🌟 Flutter & Frontend Developer | Tech Enthusiast 🌟
 
----
-
 🚀 **Passionate Flutter Developer** | 💻 **Frontend Wizard** | 🌐 **Tech Enthusiast**
 
 Hello! I'm Widi Diky Kurniawan, a versatile developer with a keen focus on building seamless, user-friendly experiences. My journey in tech has led me to specialize in **Flutter** for crafting beautiful, high-performance mobile apps, and **Frontend Development** for creating engaging, responsive web interfaces.
